@@ -1,0 +1,12 @@
+#wrapper {
+  max-width: 960px;
+  margin: 0px auto;
+}
+body {
+  overflow: scroll;
+}
+.first::first-letter {
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+}
